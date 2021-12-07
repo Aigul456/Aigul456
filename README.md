@@ -1,6 +1,12 @@
 
 
 
+<p align="center">
+
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+
+</p>
+
 
 ::: пример /https://i.ibb.co/jM1V9Kj/1946ab797ed91a196ad6ffff8a43789e-1.png, /5.7.1.2.png
 
