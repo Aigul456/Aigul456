@@ -2,7 +2,7 @@
 
 
 
-::: пример /5.7.1.1.png, /5.7.1.2.png
+::: пример /https://i.ibb.co/jM1V9Kj/1946ab797ed91a196ad6ffff8a43789e-1.png, /5.7.1.2.png
 
 
 
