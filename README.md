@@ -42,7 +42,7 @@ ______
 
 <p align="center">
 
-  <img width="500" height="300" src="https://i.gyazo.com/ae273c358191431f7d77cd225997df1f.png">
+  <img width="500" height="500" src="https://i.gyazo.com/ae273c358191431f7d77cd225997df1f.png">
 
 </p>
 
