@@ -26,12 +26,6 @@ ______
 Как сформировать чек:
 1. Зайти в приложение “Мой налог”. Нажать “Новая продажа”.   
 
-![фото](https://i.gyazo.com/f9657d19e4091c40823df292263269e6.png)    
-
-
-а
-
-
 <p align="center">
 
   <img width="300" height="300" src="https://i.gyazo.com/f9657d19e4091c40823df292263269e6.png">
@@ -46,7 +40,12 @@ ______
 Наименование организации: ООО "Казаньэкспресс"  
 
 
-вв
+<p align="center">
+
+  <img width="500" height="300" src="https://i.gyazo.com/ae273c358191431f7d77cd225997df1f.png">
+
+</p>
+
 
 
 ![фото](https://i.gyazo.com/ae273c358191431f7d77cd225997df1f.png)  
