@@ -8,7 +8,7 @@
 
 
 
-  <center>По центру хочу</center>  
+<p align="center">По центру хочу<p align="center">  
   
   ы
 
