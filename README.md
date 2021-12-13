@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img width="300" height="360" src="https://i.gyazo.com/c8d56383031ab5e6695095dbb7929042.png">
+  <img width="300" height="350" src="https://i.gyazo.com/c8d56383031ab5e6695095dbb7929042.png">
 
 </p>
 
