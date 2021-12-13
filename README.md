@@ -1,4 +1,6 @@
-ыы  
+ыы    
+<center>Centered text</center>  
+
 
 
   <center>По центру хочу</center>  
