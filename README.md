@@ -1,4 +1,9 @@
-ыы    
+ыы  
+
+
+<p align="center">
+
+
 <center>Centered text</center>  
 
 
