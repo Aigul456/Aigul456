@@ -6,10 +6,10 @@
 
 <p align="center">
 
-  <img width="800" height="1901" src="https://i.ibb.co/4sYH7JH/Mind-Map-8.jpg">
+  <img width="1100" height="1901" src="https://i.ibb.co/4sYH7JH/Mind-Map-8.jpg">
 
 </p>
-
+1183 1901
 
 
 <p align="center">
