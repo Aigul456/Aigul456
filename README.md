@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img width="1100" height="1901" src="https://i.ibb.co/FH5BYsV/Mind-Map-9.jpg">
+  <img width="1156" height="1946" src="https://i.ibb.co/FH5BYsV/Mind-Map-9.jpg">
 
 </p>
 1183 1901
