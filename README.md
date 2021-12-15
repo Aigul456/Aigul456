@@ -6,10 +6,19 @@
 
 <p align="center">
 
-  <img width="800" height="1901" src="https://https://i.ibb.co/4sYH7JH/Mind-Map-8.jpg">
+  <img width="800" height="1901" src="https://i.ibb.co/4sYH7JH/Mind-Map-8.jpg">
 
 </p>
 
+
+
+<p align="center">
+
+  <img width="300" height="300" src="https://i.gyazo.com/f9657d19e4091c40823df292263269e6.png">
+
+</p>
+
+<p align="center">
 
 
 
