@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img width="500" height="300" src="https://i.ibb.co/LC2qzCb/a3e1b925ea8d92f0f33e14b72fc50a04.png">
+  <img width="500" height="350" src="https://i.ibb.co/LC2qzCb/a3e1b925ea8d92f0f33e14b72fc50a04.png">
 
 </p>
 
