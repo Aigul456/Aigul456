@@ -110,11 +110,11 @@
 
 <p align="center">
 
-  <img width="410" height="300" src="https://i.ibb.co/k30TJBP/Mind-Map-11.jpg">
+  <img width="1654" height="1359" src="https://i.ibb.co/k30TJBP/Mind-Map-11.jpg">
 
 </p>
 
-  
+   
 ## 6.5 Отправка товара на склад  
 
 Адрес нашего основного склада: 
