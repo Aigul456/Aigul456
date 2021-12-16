@@ -188,7 +188,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="700" height="410" src="https://i.gyazo.com/f9aeef5c8490c73699badd476d8d4268.png">
+  <img width="500" height="350" src="https://i.gyazo.com/f9aeef5c8490c73699badd476d8d4268.png">
 
 </p>
 
@@ -213,7 +213,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="700" height="410" src="https://i.ibb.co/2MmcjKH/image.png">
+  <img width="500" height="350" src="https://i.ibb.co/2MmcjKH/image.png">
 
 </p>
 
