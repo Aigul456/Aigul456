@@ -201,7 +201,7 @@
  
 <p align="center">
 
-  <img width="800" height="500" src="https://i.ibb.co/F03HYRS/88e90ab86e08c30690209d59dd4e91ef.png">
+  <img width="800" height="480" src="https://i.ibb.co/F03HYRS/88e90ab86e08c30690209d59dd4e91ef.png">
 
 </p>
 
@@ -213,7 +213,7 @@
 
 <p align="center">
 
-  <img width="800" height="470" src="https://i.gyazo.com/247d08b4f21ef38aa95eef72adf8ab77.png">
+  <img width="750" height="470" src="https://i.gyazo.com/247d08b4f21ef38aa95eef72adf8ab77.png">
 
 </p>
 
