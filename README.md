@@ -147,7 +147,7 @@
 
 <p align="center">
 
-  <img width="700" height="410" src="https://i.ibb.co/TM6MhVG/b249cc6b66411285ade2c5a837e8dcdf.png">
+  <img width="650" height="410" src="https://i.ibb.co/TM6MhVG/b249cc6b66411285ade2c5a837e8dcdf.png">
 
 </p>
 
