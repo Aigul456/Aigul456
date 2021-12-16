@@ -110,7 +110,7 @@
 
 <p align="center">
 
-  <img width="800" height="600" src="https://i.ibb.co/k30TJBP/Mind-Map-11.jpg">
+  <img width="800" height="650" src="https://i.ibb.co/k30TJBP/Mind-Map-11.jpg">
 
 </p>
 
