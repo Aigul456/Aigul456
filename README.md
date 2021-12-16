@@ -84,14 +84,14 @@
   
 <p align="center">
 
-  <img width="350" height="240" src="https://i.gyazo.com/002ff70494c9ff496bfbe0af4d12538f.png">
+  <img width="340" height="240" src="https://i.gyazo.com/002ff70494c9ff496bfbe0af4d12538f.png">
 
 </p>
 
    
 <p align="center">
 
-  <img width="650" height="350" src="https://i.ibb.co/8r2CvBN/image.gif">
+  <img width="650" height="370" src="https://i.ibb.co/8r2CvBN/image.gif">
 
 </p>
 
