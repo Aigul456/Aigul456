@@ -174,7 +174,7 @@
   
 <p align="center">
 
-  <img width="1000" height="650" src="https://i.ibb.co/vPgXZr0/image.gif">
+  <img width="1000" height="400" src="https://i.ibb.co/vPgXZr0/image.gif">
 
 </p>
 
@@ -183,7 +183,7 @@
  
 <p align="center">
 
-  <img width="900" height="600" src="https://i.ibb.co/qsKqMLS/image.gif">
+  <img width="900" height="400" src="https://i.ibb.co/qsKqMLS/image.gif">
 
 </p>
 
