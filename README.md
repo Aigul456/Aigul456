@@ -87,7 +87,7 @@
 
 <p align="center">
 
-  <img width="410" height="300" src="https://https://i.ibb.co/Q6nffwX/image.gif">
+  <img width="410" height="300" src="https://i.ibb.co/k30TJBP/Mind-Map-11.jpg">
 
 </p>
 
