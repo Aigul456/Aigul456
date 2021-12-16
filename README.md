@@ -45,7 +45,7 @@
 
 <p align="center">
 
-  <img width="750" height="470" src="https://i.ibb.co/gjzLZ4v/image.gif">
+  <img width="750" height="430" src="https://i.ibb.co/gjzLZ4v/image.gif">
 
 </p>
 
