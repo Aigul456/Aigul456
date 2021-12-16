@@ -25,7 +25,7 @@
 
 <p align="center">
 
-  <img width="700" height="500" src="https://i.gyazo.com/c463d8d2d9400c405b389aceeba1a3f8.png">
+  <img width="700" height="480" src="https://i.gyazo.com/c463d8d2d9400c405b389aceeba1a3f8.png">
 
 </p>
 
