@@ -130,7 +130,7 @@
 
 <p align="center">
 
-  <img width="700" height="410" src="https://i.ibb.co/gSTSkRZ/original.webp">
+  <img width="750" height="480" src="https://i.ibb.co/gSTSkRZ/original.webp">
 
 </p>
 
