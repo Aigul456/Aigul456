@@ -178,7 +178,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="800" height="350" src="https://i.gyazo.com/c6850e83a8323bc489f220c7a9bb0fe9.png">
+  <img width="800" height="330" src="https://i.gyazo.com/c6850e83a8323bc489f220c7a9bb0fe9.png">
 
 </p>
 
