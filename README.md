@@ -169,7 +169,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="700" height="310" src="https://i.gyazo.com/c6850e83a8323bc489f220c7a9bb0fe9.png">
+  <img width="800" height="310" src="https://i.gyazo.com/c6850e83a8323bc489f220c7a9bb0fe9.png">
 
 </p>
 
@@ -188,7 +188,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="500" height="350" src="https://i.gyazo.com/f9aeef5c8490c73699badd476d8d4268.png">
+  <img width="400" height="300" src="https://i.gyazo.com/f9aeef5c8490c73699badd476d8d4268.png">
 
 </p>
 
@@ -213,7 +213,7 @@ SKU — это уникальный идентификатор товара, к�
 
 <p align="center">
 
-  <img width="500" height="350" src="https://i.ibb.co/2MmcjKH/image.png">
+  <img width="450" height="290" src="https://i.ibb.co/2MmcjKH/image.png">
 
 </p>
 
