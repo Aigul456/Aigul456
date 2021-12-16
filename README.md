@@ -43,7 +43,7 @@
   
 <p align="center">
 
-  <img width="600" height="350" src="https://i.gyazo.com/34edd4d2e70cb7cfe626137674312eba.png">
+  <img width="300" height="300" src="https://i.gyazo.com/34edd4d2e70cb7cfe626137674312eba.png">
 
 </p>
 
