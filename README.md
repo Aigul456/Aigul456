@@ -91,7 +91,7 @@
    
 <p align="center">
 
-  <img width="810" height="340 src="https://i.ibb.co/8r2CvBN/image.gif">
+  <img width="600" height="340 src="https://i.ibb.co/8r2CvBN/image.gif">
 
 </p>
 
