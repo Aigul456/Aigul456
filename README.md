@@ -36,7 +36,7 @@
 
 <p align="center">
 
-  <img width="600" height="450" src="https://i.gyazo.com/2231967fbd2644c2951389a09810b795.png">
+  <img width="700" height="400" src="https://i.gyazo.com/2231967fbd2644c2951389a09810b795.png">
 
 </p>
 
