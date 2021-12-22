@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <img width="850" height="350" src="https://i.gyazo.com/8dd336c47d01d882ee83b1399602902b.jpg">
+  <img width="850" height="400" src="https://i.gyazo.com/8dd336c47d01d882ee83b1399602902b.jpg">
 
 </p>
 
