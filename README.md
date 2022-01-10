@@ -19,7 +19,7 @@
 - Роль, которая будет у сотрудника.  
 - Магазины, в которых сотрудник будет выполнять данную роль.  
 
-![Добавить сотрудника](https://user-images.githubusercontent.com/93249146/148737340-5f91e1cf-e1a5-4c92-a486-600a9bf7cb1f.gif)
+<p align="center">![Добавить сотрудника](https://user-images.githubusercontent.com/93249146/148737340-5f91e1cf-e1a5-4c92-a486-600a9bf7cb1f.gif)<p align="center">  
 
 
 На данный момент доступны роли:  
