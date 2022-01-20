@@ -91,7 +91,7 @@ This is an image
 
 <p align="center">
 
-  <img width="500" height="200" src="https://i.gyazo.com/d04e2eae93d4386a2d2f69e356d83240.png">
+  <img width="500" height="180" src="https://i.gyazo.com/d04e2eae93d4386a2d2f69e356d83240.png">
 
 </p>
 
