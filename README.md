@@ -99,7 +99,7 @@ This is an image
 
 <p align="center">
 
-  <img width="600" height="150" src="https://i.gyazo.com/f3d80f9f06d0ec3faabf03c2d9124eac.png">
+  <img width="600" height="160" src="https://i.gyazo.com/f3d80f9f06d0ec3faabf03c2d9124eac.png">
 
 </p>
   
@@ -110,7 +110,7 @@ This is an image
 
 <p align="center">
 
-  <img width="600" height="560" src="https://user-images.githubusercontent.com/93249146/150317690-bca24732-022e-49ca-a840-457eca837bae.gif">
+  <img width="600" height="530" src="https://user-images.githubusercontent.com/93249146/150317690-bca24732-022e-49ca-a840-457eca837bae.gif">
 
 </p>
 
