@@ -8,7 +8,14 @@
 🔻   
 
 
-<img src="https://i.ibb.co/7S4QY0W/DSC01019.jpg" width="30%"></img> <img src="https://i.ibb.co/fqbtCVQ/DSC01041.jpg" width="30%"></img> <img src="https://i.ibb.co/RNSVFJC/DSC07275.jpg" width="30%"></img>
+<img src="https://i.ibb.co/7S4QY0W/DSC01019.jpg" width="33%"></img> <img src="https://i.ibb.co/fqbtCVQ/DSC01041.jpg" width="33%"></img> <img src="https://i.ibb.co/RNSVFJC/DSC07275.jpg" width="33%"></img>   
+
+
+
+![фото](https://i.ibb.co/YZtycyL/DSC07182.jpg) 
+
+
+
                                                                                                                                         
                                                сччсчсчс   
                                                
