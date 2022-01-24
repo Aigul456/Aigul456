@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  <img width="1050" height="700" src="https://i.ibb.co/fvCnknx/DSC07182.jpg">
+  <img width="1050" height="700" src="https://downloader.disk.yandex.ru/preview/16bc29e3731e82570f18985a448a4f5e1364c7a79908f55698744f87251a77e0/61eea0c9/3AHzs2MinqyeaWGW3VIwB-FYw7mHTSgJtLOuArX296f6KK43CoZOcDrV7AVwpApBIeWFJGNZJxZo1wdEgnLqOQ%3D%3D?uid=0&filename=DSC07182.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1894x913">
 
 </p>
 
