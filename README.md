@@ -5,8 +5,10 @@
 ▪  ▪
 ▪
 ▪
-🔻
-src="https://i.ibb.co/7S4QY0W/DSC01019.jpg" width="15%"></img> <img src="https://i.ibb.co/fqbtCVQ/DSC01041.jpg" width="15%"></img>
+🔻   
+
+
+src="https://i.ibb.co/7S4QY0W/DSC01019.jpg" width="30%"></img> <img src="https://i.ibb.co/fqbtCVQ/DSC01041.jpg" width="30%"></img>
                                                                                                                                         
                                                сччсчсчс   
                                                
