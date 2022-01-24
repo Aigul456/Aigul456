@@ -12,7 +12,7 @@
 
 
 
-![фото](https://i.ibb.co/YZtycyL/DSC07182.jpg) 
+![фото](https://i.ibb.co/fvCnknx/DSC07182.jpg) 
 
 
 
