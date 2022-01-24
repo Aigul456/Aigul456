@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  <img width="600" height="400" src="https://i.ibb.co/YZtycyL/DSC07182.jpg">
+  <img width="1000" height="600" src="https://i.ibb.co/YZtycyL/DSC07182.jpg">
 
 </p>
 
