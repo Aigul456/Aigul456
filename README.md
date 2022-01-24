@@ -12,7 +12,7 @@
                                                                                                                                         
                                                сччсчсчс   
                                                
-                                                                                                                                        src="https://i.ibb.co/RNSVFJC/DSC07275.jpg" width="15%"></img> <img src="https://i.ibb.co/YZtycyL/DSC07182.jpg" width="15%"></img> 
+                                                                                                                                       <img src="https://i.ibb.co/RNSVFJC/DSC07275.jpg" width="15%"></img> <img src="https://i.ibb.co/YZtycyL/DSC07182.jpg" width="15%"></img> 
 
 
 
