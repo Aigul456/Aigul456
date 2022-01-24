@@ -12,6 +12,14 @@
 
 
 
+
+<p align="center">
+
+  <img width="5899" height="3933" src="https://i.ibb.co/YZtycyL/DSC07182.jpg">
+
+</p>
+
+https://i.ibb.co/YZtycyL/DSC07182.jpg
 ![фото](https://i.ibb.co/fvCnknx/DSC07182.jpg) 
 
 
