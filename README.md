@@ -26,7 +26,7 @@
 
 Как вставляла фото в начале. 
 
-![фото](https://i.gyazo.com/57e9d6c937b667ecab4d2ea56d09af14.png) 
+![фцуагп рфци](https://i.gyazo.com/57e9d6c937b667ecab4d2ea56d09af14.png) 
 
 Как вставляла фото потом (чтобы было по центру):
 
@@ -37,7 +37,8 @@
 </p>
 
 Как еще можно:
-С компа
+
+![KazanExpress Logo_Color](https://user-images.githubusercontent.com/93249146/156726302-5f29ae39-afd3-41ed-9db0-bf93ac9d46b6.jpg)
 
 Правильно вставлять фото так:
 
@@ -46,8 +47,6 @@
 
 
 
-
-![KazanExpress Logo_Color](https://user-images.githubusercontent.com/93249146/156721769-d51440b3-65d2-4d74-a12b-5a029b80f1bc.jpg)
 
 
 ::: note  
