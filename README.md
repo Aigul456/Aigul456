@@ -18,6 +18,9 @@
 🔻   
 
 
+![KazanExpress Logo_Color](https://user-images.githubusercontent.com/93249146/156721769-d51440b3-65d2-4d74-a12b-5a029b80f1bc.jpg)
+
+
 ::: note  
 **Республика Татарстан, город Казань, улица Химическая, 21.**   
 :::  
@@ -77,7 +80,6 @@
 
 https://i.ibb.co/YZtycyL/DSC07182.jpg
 ![фото](https://i.ibb.co/fvCnknx/DSC07182.jpg) 
-
 
 
 
